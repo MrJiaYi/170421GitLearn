@@ -13,3 +13,4 @@ test --no-ff merge.
 test stash function.
 
 git branchs test（testtesttestlearngit1）.
+git branchs test（XJBTeatlearngit2）.
