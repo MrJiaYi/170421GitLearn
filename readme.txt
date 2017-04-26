@@ -11,3 +11,5 @@ Creating a new branch is quick and simple.
 test --no-ff merge.
 
 test stash function.
+
+git branchs test（learngit2）.
