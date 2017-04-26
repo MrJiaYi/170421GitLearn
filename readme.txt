@@ -12,4 +12,4 @@ test --no-ff merge.
 
 test stash function.
 
-git branchs test（learngit1）.
+git branchs test（testtesttestlearngit1）.
